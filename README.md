@@ -1,7 +1,7 @@
 # Ex2
 
 
-@auther Ofir Regev
+@auther ofek 
 
 *introduction*
 
